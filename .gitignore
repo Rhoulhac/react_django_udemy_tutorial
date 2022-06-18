@@ -1,0 +1,10 @@
+# Virtual Environment
+/venv/
+
+# SQLite files
+*.sqlite3
+
+# pycache
+__pycache__/
+
+.DS_Store

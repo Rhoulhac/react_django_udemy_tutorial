@@ -7,8 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 # OTHER
-*.sqlite3
-/venv/
-__pycache__/
 *.xml
 *.iml
